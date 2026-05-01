@@ -1,14 +1,25 @@
 # Academic Research Assignments
 
-🇬🇧 **English:**
 A collection of research papers, presentations, and assignments prepared during academic studies. This repository covers various topics in computer science, specifically focusing on network security, web encryption, and infrastructure technologies.
 
-🇹🇷 **Türkçe:**
+## Contents
+The repository contains research documents on the following topics:
+
+- **CAPTCHA**: Research on what it is and how it works.
+- **Cookies**: The importance of cookies and their use cases.
+- **Google Dorking**: Gathering information using advanced search operators.
+- **Network Fundamentals**: LAN structures and protocols.
+- **LDAP**: Lightweight Directory Access Protocol details.
+- **Port Usage**: Port numbers and their specific use cases.
+- **Web Encryption**: Securing web pages and SSL/TLS structures.
+
+---
+
+# Akademik Araştırma Ödevleri
+
 Akademik eğitim süresince hazırlanmış araştırma ödevleri, sunumlar ve makalelerin bulunduğu bir arşivdir. Bu depo, bilgisayar bilimleri alanında, özellikle ağ güvenliği, web şifreleme ve altyapı teknolojileri üzerine çeşitli konuları kapsamaktadır.
 
-## Contents / İçerik
-
-The repository contains research documents on the following topics:
+## İçerik
 Bu depo aşağıdaki konulardaki araştırma belgelerini içerir:
 
 - **CAPTCHA**: Ne olduğu ve nasıl çalıştığı üzerine araştırmalar.
